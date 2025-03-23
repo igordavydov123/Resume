@@ -2,10 +2,10 @@
 
 ## Мое фото:
 
-![Мое фото](https://drive.google.com/file/d/14Eye6a_srduWWD8ZQonnp3JNp9UQL9GJ/view?usp=sharing)
+![Фото](https://sun9-57.userapi.com/impg/uikmoaUYjTxoqzr9Xu8927-E5zpsW8vK_rsH8A/J09zAWA2ASg.jpg?size=774x1080&quality=95&sign=4e591bc69b4e3439b31baf12bb782a7f&type=album)
 
 ### Обо мне:
-В настоящее время изучаю тестирование. Прошел курс ручного тестирования от Нетологии. В настоящее время изучаю Git.
+В настоящее время изучаю тестирование. Прошел курс ручного тестирования от Нетологии. Теперь изучаю Git.
 
 ### Мои навыки:
 
